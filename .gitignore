@@ -1,1 +1,9 @@
 /statsenv
+
+# Ignorar carpetas de checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.py[cod]
+
